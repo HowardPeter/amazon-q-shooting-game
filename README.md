@@ -2,7 +2,9 @@
 
 An action-packed space shooter game built with Pygame where you control a spaceship and must defeat waves of enemy ships while avoiding their attacks.
 
-<img src="./Assets/game-img.png" alt="" width="50%" />
+<p align="center">
+   <img src="./Assets/game-img.png" alt="" width="50%" />
+</p>
 
 ## Features
 
